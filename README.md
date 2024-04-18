@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [Technology](Technology)
+- 📝 I regularly write articles on Technology
 
 - 💬 Ask me about **AI/ML**
 
